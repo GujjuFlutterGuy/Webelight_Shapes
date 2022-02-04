@@ -1,7 +1,9 @@
 name: webelight_shapes
-description: A new Flutter project.
+description: Users can use as random circle patterns in Listview, Avatarview OR at any other places.
 version: 0.0.1
-homepage:
+authors:
+  - Ketan satani
+homepage: https://github.com/GujjuFlutterGuy/Webelight_Shapes.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
