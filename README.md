@@ -21,9 +21,5 @@ Step 3
 
 ## See the results below
 
-![alt text](https://i.imgur.com/KqvISA8.jpg)
-![alt text](https://i.imgur.com/d5TyWgY.jpg)
-![alt text](https://i.imgur.com/oj5nC5w.jpg)
-![alt text](https://i.imgur.com/wd9QpZn.jpg)
-![alt text](https://i.imgur.com/5QFxl7q.jpg)
-![alt text](https://i.imgur.com/FfZbNPk.jpg)
+![alt text](https://i.imgur.com/KqvISA8.jpg) ![alt text](https://i.imgur.com/d5TyWgY.jpg) ![alt text](https://i.imgur.com/oj5nC5w.jpg)
+![alt text](https://i.imgur.com/wd9QpZn.jpg)![alt text](https://i.imgur.com/5QFxl7q.jpg)![alt text](https://i.imgur.com/FfZbNPk.jpg)
