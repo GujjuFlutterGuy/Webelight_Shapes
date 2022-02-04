@@ -2,7 +2,7 @@ name: webelight_shapes
 description: Users can use as random circle patterns in Listview, Avatarview OR at any other places.
 version: 0.0.1
 authors:
-  - Ketan satani
+  - Ketan satani<satani.ketan17@gmail.com>
 homepage: https://github.com/GujjuFlutterGuy/Webelight_Shapes.git
 
 environment:
