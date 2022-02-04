@@ -19,7 +19,6 @@ class MyApp extends StatelessWidget {
   }
 }
 
-
 class Myhome extends StatefulWidget {
   const Myhome({Key? key}) : super(key: key);
 
@@ -30,9 +29,32 @@ class Myhome extends StatefulWidget {
 class _MyhomeState extends State<Myhome> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(body: Column(children: [
-      Container(child: webelight.getMoonMountainShape(200))
-    ],),);
+    return Scaffold(body: Container(
+      color: Color(0XFFf9f9f9),
+      width: double.infinity,
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        crossAxisAlignment: CrossAxisAlignment.center,
+        children: [
+        /*Container(child: webelight.getMoonMountainShape(250)),
+        Container(child: webelight.getRiverShape(250)),
+        Container(child: webelight.getSeaShape(250)),*/
+          Expanded(
+            child: GridView.count(
+              crossAxisCount: 2,
+              crossAxisSpacing: 10.0,
+              mainAxisSpacing: 10.0,
+              shrinkWrap: true,
+              children: List.generate(20, (index) {
+                return Padding(
+                    padding: const EdgeInsets.all(0.0),
+                    child: Container(child: webelight.getSeaShape(350))
+                );
+              },),
+            ),
+          ),
+      ],),
+    ),);
   }
 }
 
