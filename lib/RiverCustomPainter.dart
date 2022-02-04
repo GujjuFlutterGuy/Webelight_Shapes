@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'dart:math' as math;
 
 
-class RiverFlowCustomPainter extends CustomPainter {
+class RiverCustomPainter extends CustomPainter {
 
   @override
   void paint(Canvas canvas, Size size) {
