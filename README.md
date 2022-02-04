@@ -19,3 +19,6 @@ Step 3
 
 - I have used CustomPainter class to draw all the circle, shape, lines and give random color using random function.
 
+## See the results below
+
+![alt text](https://imgur.com/a/qU9dIQl)
