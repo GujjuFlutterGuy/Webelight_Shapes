@@ -19,7 +19,20 @@ Step 3
 
 - I have used CustomPainter class to draw all the circle, shape, lines and give random color using random function.
 
-## See the results below
+## See some of the random colored shapes below. Those are just some of them it will get you any random colored shape whether its Moon, River or Sea shape.
 
-![alt text](https://i.imgur.com/KqvISA8.jpg) | ![alt text](https://i.imgur.com/d5TyWgY.jpg) | ![alt text](https://i.imgur.com/oj5nC5w.jpg)
-![alt text](https://i.imgur.com/wd9QpZn.jpg) | ![alt text](https://i.imgur.com/5QFxl7q.jpg) | ![alt text](https://i.imgur.com/FfZbNPk.jpg)
+
+Shape-1                    |  Shape-2
+:-------------------------:|:-------------------------:
+![](https://i.imgur.com/KqvISA8.jpg)  |  ![](https://i.imgur.com/d5TyWgY.jpg)
+
+Shape-3                    |  Shape-4
+:-------------------------:|:-------------------------:
+![](https://i.imgur.com/oj5nC5w.jpg)  |  ![](https://i.imgur.com/wd9QpZn.jpg)
+
+Shape-5                    |  Shape-6
+:-------------------------:|:-------------------------:
+![](https://i.imgur.com/5QFxl7q.jpg)  |  ![](https://i.imgur.com/FfZbNPk.jpg)
+
+
+
