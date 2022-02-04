@@ -22,17 +22,12 @@ Step 3
 ## See some of the random colored shapes below. Those are just some of them it will get you any random colored shape whether its Moon, River or Sea shape.
 
 
-Shape-1                    |  Shape-2
-:-------------------------:|:-------------------------:
-![](https://i.imgur.com/KqvISA8.jpg)  |  ![](https://i.imgur.com/d5TyWgY.jpg)
+<img src="https://i.imgur.com/pQQlYls.jpg" width="350" height="700" /> <img src="https://i.imgur.com/9At8vLi.jpg" width="350" height="700" />
 
-Shape-3                    |  Shape-4
-:-------------------------:|:-------------------------:
-![](https://i.imgur.com/oj5nC5w.jpg)  |  ![](https://i.imgur.com/wd9QpZn.jpg)
+<img src="https://i.imgur.com/2jpUM80.jpg" width="350" height="700" /> <img src="https://i.imgur.com/FNAyTq0.jpg" width="350" height="700" />
 
-Shape-5                    |  Shape-6
-:-------------------------:|:-------------------------:
-![](https://i.imgur.com/5QFxl7q.jpg)  |  ![](https://i.imgur.com/FfZbNPk.jpg)
+<img src="https://i.imgur.com/wLmjDMy.jpg" width="350" height="700" /> <img src="https://i.imgur.com/hEOhTvo.jpg" width="350" height="700" />
+
 
 
 
